@@ -16,7 +16,7 @@ main()
     {
         ++count;
         if (count==50) flag=false;
-        test=10-();
+        test=1;
         if (test>0){
             root =(1/3)*pow(test,0.5);
             printf("\n Iteration number:%2d",count);
