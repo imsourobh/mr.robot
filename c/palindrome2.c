@@ -10,7 +10,7 @@ int main()
     while(loop==1)
     {
         printf("\n enter ");
-        scanf("%s",&name);
+        scanf("%s",&name);r
         
         for (count=0, countback=strlen(name)-1; count<=(strlen(name)-1); count++, countback--)
         {
